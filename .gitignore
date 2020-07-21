@@ -1,0 +1,4 @@
+# 忽略abc.js
+abc.js
+# 忽略text
+text/*.js 
